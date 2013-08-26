@@ -9,4 +9,5 @@ cpanfile
 dist.ini
 lib/Parser/Combinators.pm
 t/basic.t
+t/fortran95_argument_declarations.t
 t/release-pod-syntax.t

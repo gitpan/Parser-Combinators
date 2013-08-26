@@ -1,5 +1,5 @@
 ---
-abstract: "A library of building blocks for parsing, similar to Haskell's Parsec"
+abstract: 'A library of building blocks for parsing text'
 author:
   - 'Wim Vanderbauwhede <Wim.Vanderbauwhede@gmail.com>'
 build_requires:
@@ -7,7 +7,7 @@ build_requires:
 configure_requires:
   Module::Build::Tiny: 0.026
 dynamic_config: 0
-generated_by: 'Dist::Milla version v1.0.3, Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.132140'
+generated_by: 'Dist::Milla version v1.0.4, Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.132140'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/wimvanderbauwhede/Perl-Parser-Combinators/issues
   homepage: https://github.com/wimvanderbauwhede/Perl-Parser-Combinators
   repository: https://github.com/wimvanderbauwhede/Perl-Parser-Combinators.git
-version: 0.01
+version: 0.02
