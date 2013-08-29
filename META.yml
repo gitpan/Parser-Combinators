@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/wimvanderbauwhede/Perl-Parser-Combinators/issues
   homepage: https://github.com/wimvanderbauwhede/Perl-Parser-Combinators
   repository: https://github.com/wimvanderbauwhede/Perl-Parser-Combinators.git
-version: 0.02
+version: 0.03
